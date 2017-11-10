@@ -1,0 +1,13 @@
+.titre {
+    font-size: 500%;
+	font-family: Arial;
+	color: darkgreen;
+    text-align: center;
+}
+
+.soustitre {
+    font-size: 130%;
+	font-family: Arial;
+	color: forestgreen;
+    text-align: left;
+}
