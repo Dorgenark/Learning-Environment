@@ -1,0 +1,27 @@
+.imghtml {
+    display: block;
+    postion: relative;
+    height:100%;
+    width:100%;
+    overflow:hidden;
+    margin:0;
+    padding:0;
+}
+
+.main, .number {
+    position: absolute;
+}
+
+.main {
+    font-family: sans-serif;
+    font-size: 200%;
+    margin-left: 30px;
+}
+
+.number {
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: 900%;
+    margin-left: 30px;
+    margin-top: 80px;
+}
