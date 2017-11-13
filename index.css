@@ -11,3 +11,8 @@
 	color: forestgreen;
     text-align: center;
 }
+
+.texte {
+    font-family: Arial;
+    text-align: inherit;
+}
